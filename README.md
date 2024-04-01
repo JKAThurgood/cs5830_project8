@@ -14,7 +14,7 @@ See `requirements.txt` for dependencies.
 
 
 ## Datasets
-
+Download the car evalutation [dataset](https://archive.ics.uci.edu/static/public/19/car+evaluation.zip) to the data directory, and extract there. 
 ## Usage
 
 Download and place datasets as described in [Datasets].
